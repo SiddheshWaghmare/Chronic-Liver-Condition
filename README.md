@@ -1,3 +1,7 @@
+![Alt Text](Google Chrome 24-05-2024 21_03_41.png)
+
+
+
 Here's the complete README.md file for your Kidney Disease Prediction project:
 
 markdown
