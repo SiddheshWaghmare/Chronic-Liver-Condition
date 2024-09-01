@@ -1,36 +1,4 @@
-![Uploading Title - Google Chrome 24-05-2024 21_03_41.png…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Title - Google Chrome 24-05-2024 21_03_41](https://github.com/user-attachments/assets/95e1ba20-948c-4da7-aa34-8d3d88480149)
 
 Here's the complete README.md file for your Kidney Disease Prediction project:
 
